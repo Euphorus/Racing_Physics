@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Racing_Physics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C61023E-1994-4927-BBBD-E1624A3C1DB4}|Racing_Physics.vcxproj|C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Racing_Physics\\Racing_Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C61023E-1994-4927-BBBD-E1624A3C1DB4}|Racing_Physics.vcxproj|solutionrelative:Racing_Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Racing_Physics.cpp",
+              "DocumentMoniker": "C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Racing_Physics\\Racing_Physics.cpp",
+              "RelativeDocumentMoniker": "Racing_Physics.cpp",
+              "ToolTip": "C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Racing_Physics\\Racing_Physics.cpp",
+              "RelativeToolTip": "Racing_Physics.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T09:36:18.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
